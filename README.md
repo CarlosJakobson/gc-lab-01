@@ -17,13 +17,17 @@ Configuração. Como vimos em aula, no geral uma _issue_ pode ser uma falha
 (_bug_) ou uma requisição de nova funcionalidade. Para esta questão, quero
 que a resposta seja registrada como um bug. Utilize o _label_ (rótulo)
 apropriado ao submeter sua issue. O título de sua issue deve ser `Resposta
-Desafio - Sua Matrícula` e ela deve ser atribuída (_assigned_) a você.
+Desafio - Seu nome` e ela deve ser atribuída (_assigned_) a você.
 
 3 - Para quê serve um arquivo README em um repósitório do GitHub? Responda
 esta pergunta submetendo uma nova issue no repositório! Desta vez, sua issue
 deve utilizar uma label que identifique que a mudança é uma solicitação de um
 novo requisito (_feature_). Da mesma forma, atribua esta mudança a você. O
-título da issue deve seguir o padrão `Bônus - Sua Matrícula`.
+título da issue deve seguir o padrão `Bônus - Seu nome`.
 
-Respostas submetidas após 20h10 de hoje, 27/03/2018, não serão consideradas.
-Boa sorte.
+4 - (Extra) Dê uma olhada nas issues registradas até agora no repositório e
+adicione uma reação (_reaction_) a pelo menos duas repostas de seus colegas.
+
+Faça sua atividade **individualmente**. Dúvidas devem ser tiradas com o
+professor. Respostas submetidas após **20h10** de hoje, 27/03/2018, não serão
+consideradas. Boa sorte.
