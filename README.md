@@ -24,3 +24,6 @@ esta pergunta submetendo uma nova issue no repositório! Desta vez, sua issue
 deve utilizar uma label que identifique que a mudança é uma solicitação de um
 novo requisito (_feature_). Da mesma forma, atribua esta mudança a você. O
 título da issue deve seguir o padrão `Bônus - Sua Matrícula`.
+
+Respostas submetidas após 20h10 de hoje, 27/03/2018, não serão consideradas.
+Boa sorte.
